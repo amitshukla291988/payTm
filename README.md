@@ -1,3 +1,4 @@
 # payTm
+PayTm
 Payment GateWay
-Intigrate PayTm Payment gateway in nodejs
+Intigrate  in nodejs
